@@ -1,0 +1,72 @@
+# Файл с данными тренировок (содержит пользовательские данные)
+trainings.json
+
+# Байт-код Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Дистрибутивы
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+develop-eggs/
+.installed.cfg
+*.egg-info
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Файлы логов
+*.log
+
+# Временные файлы
+*.tmp
+*.bak
+*.swp
+
+# Специфичные для Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Специфичные для Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Специфичные для Linux
+.directory
+.Trash-*
+
+# Файлы покрытия кода
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Файлы профилирования
+*.prof
